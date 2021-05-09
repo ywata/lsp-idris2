@@ -46,3 +46,5 @@ In the above configuration I put lsp-idris2.el in .emacs.d/site-lisp/lsp-idris2/
 ![Quickfixes](images/quickfix001.png)
 - Expression search, Make with and Make lemma
 ![Quickfixes](images/quickfix002.png)
+- Error message
+![Quickfixes](images/error.png)
