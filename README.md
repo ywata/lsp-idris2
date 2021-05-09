@@ -42,4 +42,7 @@ The following setting by use-package in .emacs.d/init.el worked for me.
 In the above configuration I put lsp-idris2.el in .emacs.d/site-lisp/lsp-idris2/.
 
 # Screen Shots
-![Quickfixes](images/quickfix.png)
+- Add clause
+![Quickfixes](images/quickfix001.png)
+- Expression search, Make with and Make lemma
+![Quickfixes](images/quickfix002.png)
