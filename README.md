@@ -1,4 +1,4 @@
-* lsp-idris2
+# lsp-idris2
 
 lsp-idris2 is LSP client for Idris2.
 To run this mode, you need to install 
@@ -8,7 +8,7 @@ To run this mode, you need to install
 - idris2-lsp (https://github.com/idris-community/idris2-lsp)
 
 
-* Configurtion
+# Configurtion
 
 The following setting by use-package in .emacs.d/init.el worked for me.
 
