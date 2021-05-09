@@ -12,6 +12,7 @@ To run this mode, you need to install
 
 The following setting by use-package in .emacs.d/init.el worked for me.
 
+```
 (progn
   (use-package idris-mode
     :load-path "site-lisp/idris-mode"
@@ -36,3 +37,4 @@ The following setting by use-package in .emacs.d/init.el worked for me.
   (use-package helm-idris
     :defer t
     :ensure t))
+```
