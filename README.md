@@ -44,7 +44,11 @@ In the above configuration I put lsp-idris2.el in .emacs.d/site-lisp/lsp-idris2/
 # Screen Shots
 - Add clause
 ![Quickfixes](images/quickfix001.png)
+- Case split
+![Quickfixes](images/case-split.png)
 - Expression search, Make with and Make lemma
 ![Quickfixes](images/quickfix002.png)
+- add partial annotation and add missing cases
+![Quickfixes](images/quickfix003.png)
 - Error message
 ![Quickfixes](images/error.png)
